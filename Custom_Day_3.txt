@@ -1,0 +1,15 @@
+Day 3 31/08/2023
+Biki Kumar
+
+Database
+Single & Elastic Database
+Schemas
+Views
+DDL
+DML
+DCL
+CRUD Operations
+Constraints
+WHERE clause
+Group by
+Having

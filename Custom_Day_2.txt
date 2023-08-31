@@ -1,0 +1,16 @@
+Day 2 , 30/08/2023
+Biki Kumar
+
+Data
+Structure , Semi Structure, Unstructure,
+Big Data
+Batch and Stream data processing
+Parallel & Sistributive processing
+Framework of data : Hadoop, Spark
+Data Warehouse, Data Lake, Lake House
+Cloud Computing
+Public Cloud,Private Cloud,Hybrid Cloud
+Capex & Opex
+IaaS,PaaS,SaaS
+Azure fundamentals: Region Pairs ,Availability Zone,Azure resource Manager
+Subscription,Resource Group,Resources
