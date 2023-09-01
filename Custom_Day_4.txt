@@ -1,0 +1,13 @@
+Day 4 01/09/2023
+Biki Kumar
+
+Joins
+Inner, Left Right,Self,Outer,Cross
+Union
+Stored Procedure
+Functions
+Scalar & Table view
+Indexing
+Cluster & Non Clustering Indexing
+Columnar Indexing
+
