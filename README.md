@@ -48,3 +48,14 @@
   - WHERE clause
   - Group by
   - Having
+
+> **Day 4**
+  - Joins
+  - Inner, Left Right,Self,Outer,Cross
+  - Union
+  - Stored Procedure
+  - Functions
+  - Scalar & Table view
+  - Indexing
+  - Cluster & Non Clustering Indexing
+  - Columnar Indexing
