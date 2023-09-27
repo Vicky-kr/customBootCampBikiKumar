@@ -19,3 +19,18 @@
   - Dimension modeling : Types of table fact table , Dimension Table , Types of schema SnowFlakes schema and Star Schema
 
   - Slowly Changing Dimension (Type 1,2,3) : SCD 1,SCD 2,SCD3
+
+> **Day 2**
+  - Data
+  - Structure , Semi Structure, Unstructure,
+  - Big Data
+  - Batch and Stream data processing
+  - Parallel & Sistributive processing
+  - Framework of data : Hadoop, Spark
+  - Data Warehouse, Data Lake, Lake House
+  - Cloud Computing
+  - Public Cloud,Private Cloud,Hybrid Cloud
+  - Capex & Opex
+  - IaaS,PaaS,SaaS
+  - Azure fundamentals: Region Pairs ,Availability Zone,Azure resource Manager
+  - Subscription,Resource Group,Resources
