@@ -34,3 +34,17 @@
   - IaaS,PaaS,SaaS
   - Azure fundamentals: Region Pairs ,Availability Zone,Azure resource Manager
   - Subscription,Resource Group,Resources
+
+> **Day 3**
+  - Database
+  - Single & Elastic Database
+  - Schemas
+  - Views
+  - DDL
+  - DML
+  - DCL
+  - CRUD Operations
+  - Constraints
+  - WHERE clause
+  - Group by
+  - Having
