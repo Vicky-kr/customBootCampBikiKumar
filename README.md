@@ -80,3 +80,13 @@
   - Then enter the **username** and **password** (**from Azure Container Registry**)
   - name the container using command **`docker tag cridashell/flask-app:latest cridashell.azurecr.io/flask-app:latest`**
   - push the image into ACR using command **`docker push cridashell.azurecr.io/flask-app:latest`**
+
+## Kubernetes
+
+> Steps to Deploy the image using kubernetes
+
+  - create a folder name **kubernetes** and add two files **service.yaml** and **deployment.yaml**
+  - add necessary code in both the file
+  - now run the command **`kubectl apply -f deployment.yaml`** and **`kubectl apply -f service.yaml`**
+  - now run the command **`az aks get-credentials --resource-group RG_Shell_IDA --name K8S_Cluster`**
+  - now attach the container port to localhost port using command **`az aks get-credentials --resource-group RG_Shell_IDA --name K8S_Cluster`**
