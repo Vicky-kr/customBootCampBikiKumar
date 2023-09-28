@@ -59,3 +59,24 @@
   - Indexing
   - Cluster & Non Clustering Indexing
   - Columnar Indexing
+
+## Docker 
+
+> Steps to Containerizing a Flask app
+
+  - **app.py**
+  - add **requirements.txt** file which contains all the libraries
+  - add **Dockerfile** without any extension and add instructions in it
+  - create image using command **`docker build -t app-name .`**
+  - to check it use command **`docker images`**
+
+> Steps to push to Azure Container Registry
+
+  - Install Azure cli using command **` curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`**
+  - Login in Azure using command **`az login -u userName -p password`**
+  - Create a Resource group in Azure using command **`az group create --name RG_Shell_IDA --location eastus`**
+  - Create a Azure Container Registry using command **`az acr create --name cridashell --resource-group RG_Shell_IDA --sku Standard --admin-enabled true`**
+  - Login in the Azure Container Registry using command **`az acr login --name acrName`**
+  - Then enter the **username** and **password** (**from Azure Container Registry**)
+  - name the container using command **`docker tag cridashell/flask-app:latest cridashell.azurecr.io/flask-app:latest`**
+  - push the image into ACR using command **`docker push cridashell.azurecr.io/flask-app:latest`**
