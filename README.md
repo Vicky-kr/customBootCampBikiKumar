@@ -89,4 +89,5 @@
   - add necessary code in both the file
   - now run the command **`kubectl apply -f deployment.yaml`** and **`kubectl apply -f service.yaml`**
   - now run the command **`az aks get-credentials --resource-group RG_Shell_IDA --name K8S_Cluster`**
-  - now attach the container port to localhost port using command **`az aks get-credentials --resource-group RG_Shell_IDA --name K8S_Cluster`**
+  - now run the command **`az aks update -n K8S_Cluster -g RG_Shell_IDA --attach-acr cridashell`**
+  - now attach the container port to localhost port using command **`kubectl port-forward flask-app-deployment-658d6f6d66-djvm5 8000:8000`**
