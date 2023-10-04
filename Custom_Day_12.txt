@@ -1,0 +1,9 @@
+Biki Kumar
+
+Intro to Python
+Different data types and their syntaxes with examples
+Different operators in python
+Tuples, Dictionaries
+User-defined functions
+If-Else statements
+Zip functions, Enumerate, Counter
