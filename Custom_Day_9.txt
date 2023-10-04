@@ -1,0 +1,7 @@
+Biki Kumar
+
+Azure Synapse Analytics
+Creation of Azure Synapse Account
+Synapse Studio
+Pipeline
+SQL Pool
