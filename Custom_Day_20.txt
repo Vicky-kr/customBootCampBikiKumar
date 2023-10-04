@@ -1,0 +1,8 @@
+Biki Kumar
+
+Machine Learning
+Azure ML Service
+ML Workspace
+Pipeline
+Dataset
+Filter Data
