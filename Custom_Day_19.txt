@@ -1,0 +1,9 @@
+Biki Kumar
+
+Intro to Azure DevOps
+Azure Board
+Epic,Feature,User Story,Tasks
+Creating a simple project with proper naming
+Creating Repos
+Creating Pipelines
+CI/CD
