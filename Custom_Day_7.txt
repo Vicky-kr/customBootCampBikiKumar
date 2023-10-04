@@ -1,0 +1,7 @@
+Biki Kumar
+
+Azure Data Factory
+Access
+Authentication
+Creation of container in Data Lake
+Uploading file into Azure Data Lake Gen2
