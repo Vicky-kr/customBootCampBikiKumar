@@ -1,0 +1,7 @@
+Biki Kumar
+
+Azure Data Factory
+Source Transformation
+Sink Transformation
+API Integration
+CDC
