@@ -1,0 +1,19 @@
+Biki Kumar
+
+Args
+
+def my_func(*products):
+ print("The costly product in the collection is: "+products[3]")
+my_fuction("k","m","f","g","s")
+
+kwargs - keyword arguments (key, value)
+- when number of kwargs is not known
+-** appear before the parameter
+
+Keyword and positional parameters
+ - keyword-only argument 
+
+Lambda Function
+- A lambda function is a small anonymous function.
+- A lambda function can take any number of arguments, but can only have one expression.
+
