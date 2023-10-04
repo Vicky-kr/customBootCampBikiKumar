@@ -1,0 +1,9 @@
+Biki Kumar
+
+Data Lake
+Azure blob storage
+Azure Data lake
+File Share
+Container
+Upload the file to blob service
+Table
