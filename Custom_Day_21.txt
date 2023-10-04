@@ -1,0 +1,9 @@
+Biki Kumar
+
+Azure ML Service
+Pipeline
+Split Data
+Train Model
+ML Algorithm
+Score
+Evaluate Model
