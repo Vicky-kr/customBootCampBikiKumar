@@ -1,0 +1,9 @@
+Biki Kumar
+
+Mounting and why mounting
+Parameterization
+Widgets
+Azure Data Bricks Connection with another Services
+Delta Table
+Scheduling
+Connection to Azure SQL DB through JDBC Connection
