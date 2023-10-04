@@ -1,0 +1,7 @@
+Biki Kumar
+
+Power BI
+Connection with Azure SQL
+Univariate and Bivariate analysis
+Exploring various analysis charts
+Reports and dashboard
