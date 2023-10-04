@@ -1,0 +1,8 @@
+Biki Kumar
+
+Intro to Power BI. 
+Data loading
+Different data transformations – Removing duplicates, merge queries, slicers.
+Parameters
+DAX, Calculated columns, measures
+Simple analysis charts
