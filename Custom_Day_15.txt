@@ -1,0 +1,8 @@
+Biki Kumar
+
+RDD
+Data Transformation
+SQL Query in PySpark
+Filter Data 
+Parquet 
+Delta Table
