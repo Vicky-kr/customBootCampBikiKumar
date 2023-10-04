@@ -1,0 +1,10 @@
+Biki Kumar
+
+Azure Storage
+Data lake
+Data warehouse
+Data lakehouse
+Blob Storage
+Gen 2 storage Data lake
+Storage account
+
